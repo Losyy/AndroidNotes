@@ -2,6 +2,8 @@
 > Handler、Looper、MessageQueue、Message四者的联系
 
 
+test
+
 # 二、Binder原理
 
 
